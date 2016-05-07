@@ -232,6 +232,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Bootstrap table](http://bootstrap-table.wenzhixin.net.cn/) - A powerful table control designed for bootstrap.
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
 * [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
+* [FancyGrid](https://github.com/fooplugins/FooTable/) - JavaScript grid library with charts integration and server communication.
 * [FooTable](https://github.com/fooplugins/FooTable/) - Make HTML tables responsive.
 * [Isotope](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
 * [HighchartTable](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
